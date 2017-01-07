@@ -1,5 +1,5 @@
 # Instrukcja
-1. Zklonuj sobie to repo, przeczytaj kod obu plików i odpal plik index.html w przeglądarce.
+1. Przeczytaj kod index.html i script.js, postaraj się zrozumieć i odpal plik index.html w przeglądarce.
 2. Podmień w index.html nazwę pliku ze skryptem na script1.js, przeczytaj kod i odpal.
 3. Podmień w index.html nazwę pliku ze skryptem na script2.js, przeczytaj kod i odpal.
 
