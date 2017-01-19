@@ -1,6 +1,3 @@
-# Instrukcja
-
-1. Zrób sobie forka tego repo do siebie.
 
 # Programming basics for Mike
 
