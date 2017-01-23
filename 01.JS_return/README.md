@@ -9,3 +9,8 @@
 
 # Wiedza
 * window.prompt() - http://www.w3schools.com/jsref/met_win_prompt.asp
+
+# DONE
+1. Zmienione nazwy funkcji w script1.js i script2.js
+2. Zmienione przypisanie skryptu w html
+3. Zmienione działania w script2.js
