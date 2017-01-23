@@ -1,15 +1,12 @@
 // Tym razem zrobimy małą interakcję z użytkownikiem
-function sum(number) {
+function square(number) {
   return number * number;
 }
 
-var number = prompt("Podaj parametry, które chcesz do siebie dodać: ")
-var message = "Wynik to: " + sum(number);
+var number = prompt("Podaj liczbę, którą chcesz podnieść do kwardatu: ")
+var message = "Wynik to: " + square(number);
 alert(message);
 // Zmiennej number można użyć drugi raz
-numbers = prompt("Podaj parametry, które chcesz do siebie dodać: ")
+number = prompt("Podaj liczbę, którą chcesz podnieść do kwardatu: ")
 // Zmienna message nie jest konieczna, można wiadomość skleić od razu w wywołaniu funkcji alert
-alert("Wynik to: " + sum(numbers));
-
-
-// Przy mnożeniu możliwe jest tylko podawanie parametrów liczbowych. Przy dodawaniu możliwe jest łączenie ze sobą stringów i liczb
+alert("Wynik to: " + square(number));
